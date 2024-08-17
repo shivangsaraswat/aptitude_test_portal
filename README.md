@@ -1,1 +1,2 @@
 # aptitude_test_portal
+Aptitude Test Portal, a comprehensive platform designed to help students assess their skills and knowledge through a convenient online aptitude test. This portal allows students to sign up, pay a nominal fee, and schedule their test at their convenience. With a user-friendly interface and secure payment processing, our goal is to make test preparation and assessment accessible to all students. Upon successful completion, students receive valuable insights into their strengths and areas for improvement, guiding them on their educational journey.
